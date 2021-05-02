@@ -1,4 +1,3 @@
-
 // Separate arrays for movies and nominees
 var movies = [];
 var nominees = [];
@@ -50,6 +49,9 @@ $(document).ready(function() {
                     movies.forEach(displayMovie);
                     function displayMovie(movies) {
                         if (movies.Poster !== 'N/A' && nominees.indexOf(movies.imdbID) == -1) {
+
+                            // Apostrophes in movie titles break the program. Removing apostrophes in completely.
+                            movies.Title = movies.Title.replace("'", "");
 
                             // Only show movies that have posters. If not yet nominated, show enabled nominate button
                             document.getElementById('searchResults').innerHTML += `
