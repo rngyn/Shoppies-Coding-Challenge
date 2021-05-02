@@ -5,7 +5,7 @@ var nominees = [];
 
 // Omdb API url building
 const apiKey = '48c64415';
-var url = 'http://www.omdbapi.com/?apikey=' + apiKey + '&type=movie';
+var url = 'https://www.omdbapi.com/?apikey=' + apiKey + '&type=movie';
 
 // These functions will load when the DOM is ready
 $(document).ready(function() {
