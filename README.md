@@ -22,3 +22,4 @@ is already in the nominations list. Removal of nominees can be made right from t
 No dependencies.
 
 ## The Shoppies Walkthrough
+![Searching] (https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/Shoppies_1.gif)
