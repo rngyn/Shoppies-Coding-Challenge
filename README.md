@@ -31,7 +31,7 @@ No dependencies.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
 
 4. A maximum of five movies can be nominated. A banner will prevent you from nominating any more movies.
-<img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
+<img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_maxnominations.gif" width="500">
 
 5. The web application is fully responsive and features a dark mode.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_extras.gif" width="500">
