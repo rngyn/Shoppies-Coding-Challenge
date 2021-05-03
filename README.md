@@ -24,12 +24,16 @@ No dependencies.
 ## The Shoppies Walkthrough
 1. Type in the search bar and click Go or press enter to find a list of movies matching the input. Make sure you type correctly or it'll return no results!
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_searching.gif" width="500">
+
 2. Hover over the movie poster to reveal the nominate button. Click to nominate the movie and add it to the nominations list.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nominating.gif" width="500">
+
 3. When a movie is nominated, it cannot be re-nominated. Add/delete movies to create your dream team of movies!
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
+
 4. A maximum of five movies can be nominated. A banner will prevent you from nominating any more movies.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
+
 5. The web application is fully responsive and features a dark mode.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_extras.gif" width="500">
 
