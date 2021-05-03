@@ -99,3 +99,12 @@ html, body {
     background-color: #084298 !important;
     border-color: #084298;
 }
+
+[data-theme="dark"] .modal-close {
+    filter: invert(0) !important;
+}
+
+[data-theme="dark"] .alert-warning {
+    background-color: #664d03 !important;
+    color: #eee !important;
+}
