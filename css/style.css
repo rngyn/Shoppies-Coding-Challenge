@@ -1,6 +1,6 @@
 html, body {
     height: 100vh;
-    background-image: url("../img/background.jpeg");
+    background-image: url("../img/bg-light.jpeg");
 }
 
 .movie-poster {
@@ -41,4 +41,61 @@ html, body {
 
 .navbar {
     background: none;
+}
+
+[data-theme="dark"] {
+    background-image: url("../img/bg-dark.jpeg") !important;
+    background-color: #212529;
+    color: #eee;
+}
+
+[data-theme="dark"] .dropdown-menu {
+    background-color: #343a40;
+}
+
+[data-theme="dark"] .dropdown-header {
+    color: #eee;
+}
+
+[data-theme="dark"] .list-group-item {
+    background-color: #343a40;
+    color: #eee;
+}
+
+[data-theme="dark"] .btn-close {
+    filter: invert(1);
+}
+
+[data-theme="dark"] .img-thumbnail {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+[data-theme="dark"] .btn-success {
+    background-color: #0f5132;
+    border-color: #0f5132;
+}
+
+[data-theme="dark"] .btn-danger {
+    background-color: #842029;
+    border-color: #842029;
+}
+
+[data-theme="dark"] .btn-primary {
+    background-color: #084298;
+    border-color: #084298;
+}
+
+[data-theme="dark"] .form-control {
+    background-color: #343a40 !important;
+    color: #eee;
+}
+
+[data-theme="dark"] .bg-danger {
+    background-color: #842029 !important;
+}
+
+[data-theme="dark"] .form-check-input:checked {
+    background-color: #084298 !important;
+    border-color: #084298;
 }
