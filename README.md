@@ -8,11 +8,10 @@ is already in the nominations list. Removal of nominees can be made right from t
 
 ## Important Files and Folders
 * `index.html` ; main web app page
-* `img folder` ; contains backgrounds for light and dark modes
 
 ### JavaScript Files
 * `app.js` ; main program code
-* `jquery-3.6.0.min.js` ; jQuery library, mainly for readying the DOM and sending AJAX request. Small number of jQuery functions used
+* `jquery-3.6.0.min.js` ; jQuery library, mainly for sending AJAX request. Small number of jQuery functions used
 * `dark-mode-switch.min.js` ; code that handles dark mode theme switching and local storage of theme **(See Attributions)**
 
 ### CSS Files
