@@ -6,6 +6,8 @@ The user can click the nominate button when hovering over a movie poster to add 
 nominations can be made before an alert is shown preventing further nominations. The nominate button is disabled if the movie
 is already in the nominations list. Removal of nominees can be made right from the nomination list if the user changes their mind.
 
+See live version [here](https://rngyn.github.io/Shoppies-Coding-Challenge/).
+
 ## Important Files and Folders
 * `index.html` ; main web app page
 
