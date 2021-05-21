@@ -1,4 +1,4 @@
-# Shopify Coding Challenge: The Shoppies
+# The Shoppies
 **Welcome to the Shoppies!**
 
 This web application uses the Open Movie Database (OMDb) API to grab a list of movies based on the user's search input.
@@ -52,4 +52,4 @@ Several sources were used in this project:
 4. [Dark Mode Switch](https://coliff.github.io/dark-mode-switch/index.html)
 
 ## Disclaimer
-This application was written by Robert Nguyen for Shopify's Fall 2021 challenge.
+This application was written by Robert Nguyen
