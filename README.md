@@ -1,18 +1,19 @@
-# Shopify Coding Challenge: The Shoppies
-**Welcome to the Shoppies!**
+# The Top Five
+**(Formally the Shoppies)**
 
 This web application uses the Open Movie Database (OMDb) API to grab a list of movies based on the user's search input.
 The user can click the nominate button when hovering over a movie poster to add it to the nominations list. Up to five
 nominations can be made before an alert is shown preventing further nominations. The nominate button is disabled if the movie
 is already in the nominations list. Removal of nominees can be made right from the nomination list if the user changes their mind.
 
+See live version [here](https://rngyn.github.io/The-Top-Five/).
+
 ## Important Files and Folders
 * `index.html` ; main web app page
-* `img folder` ; contains backgrounds for light and dark modes
 
 ### JavaScript Files
 * `app.js` ; main program code
-* `jquery-3.6.0.min.js` ; jQuery library, mainly for readying the DOM and sending AJAX request. Small number of jQuery functions used
+* `jquery-3.6.0.min.js` ; jQuery library, mainly for sending AJAX request. Small number of jQuery functions used
 * `dark-mode-switch.min.js` ; code that handles dark mode theme switching and local storage of theme **(See Attributions)**
 
 ### CSS Files
@@ -21,7 +22,7 @@ is already in the nominations list. Removal of nominees can be made right from t
 ## Dependencies
 No dependencies.
 
-## The Shoppies Walkthrough
+## The Top Five Walkthrough
 1. Type in the search bar and click Go or press enter to find a list of movies matching the input. Make sure you type correctly or it'll return no results!
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_searching.gif" width="500">
 
@@ -32,7 +33,7 @@ No dependencies.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
 
 4. A maximum of five movies can be nominated. A banner will prevent you from nominating any more movies.
-<img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_nomineeslist.gif" width="500">
+<img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_maxnominations.gif" width="500">
 
 5. The web application is fully responsive and features a dark mode.
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_extras.gif" width="500">
@@ -51,4 +52,4 @@ Several sources were used in this project:
 4. [Dark Mode Switch](https://coliff.github.io/dark-mode-switch/index.html)
 
 ## Disclaimer
-This application was written by Robert Nguyen for Shopify's Fall 2021 challenge.
+This application was written by Robert Nguyen
