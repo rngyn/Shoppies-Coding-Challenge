@@ -22,7 +22,7 @@ See live version [here](https://rngyn.github.io/Shoppies-Coding-Challenge/).
 ## Dependencies
 No dependencies.
 
-## The Shoppies Walkthrough
+## The Top Five Walkthrough
 1. Type in the search bar and click Go or press enter to find a list of movies matching the input. Make sure you type correctly or it'll return no results!
 <img src="https://github.com/rngyn/Shoppies-Coding-Challenge/blob/main/gifs/gif_searching.gif" width="500">
 
