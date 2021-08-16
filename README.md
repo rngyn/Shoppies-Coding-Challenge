@@ -1,5 +1,5 @@
-# The Shoppies
-**Welcome to the Shoppies!**
+# The Top Five
+**(Formally the Shoppies)**
 
 This web application uses the Open Movie Database (OMDb) API to grab a list of movies based on the user's search input.
 The user can click the nominate button when hovering over a movie poster to add it to the nominations list. Up to five
